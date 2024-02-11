@@ -19,3 +19,13 @@ Can you join group called {group_name} from my profile 💰
 Can you join group called {group_name} from my profiIe 💰
 Can you join group called {group_name} from my profiIe 💰💰
 Can you join group called {group_name} from my profiIe 
+🎁💰 Could you please join the group named {group_name} from my profile?
+🎁💰 Hey there! Looking for some freebies? Join my group ({group_name}) from my profile!
+🎁💰 Want to score some cool prizes? Join {group_name} from my profile now!
+🎁💰 My friend needs your help! Join {group_name} from my profile to cheer him up!
+🎁💰 Seeking freebies? Join {group_name} from my profile for exciting rewards!
+🎁💰 Looking for perks? Join {group_name} from my profile for exclusive rewards!
+🎁💰 Don't miss out on freebies! Join {group_name} from my profile for awesome perks!
+🎁💰 Ready for some rewards? Join {group_name} from my profile now!
+🎁💰 Want to grab some goodies? Join {group_name} from my profile!
+🎁💰 Need some free stuff? Join {group_name} from my profile for exciting rewards!
