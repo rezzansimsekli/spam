@@ -17,3 +17,5 @@ Can you join group called {group_name} from my profile
 Can you join group called {group_name} from my profile.
 Can you join group called {group_name} from my profile 💰
 Can you join group called {group_name} from my profiIe 💰
+Can you join group called {group_name} from my profiIe 💰💰
+Can you join group called {group_name} from my profiIe 
