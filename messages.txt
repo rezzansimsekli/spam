@@ -29,3 +29,7 @@ Can you join group called {group_name} from my profiIe
 🎁💰 Ready for some rewards? Join {group_name} from my profile now!
 🎁💰 Want to grab some goodies? Join {group_name} from my profile!
 🎁💰 Need some free stuff? Join {group_name} from my profile for exciting rewards!
+🌟🎁 Join the group named {group_name} from my profile and unlock exclusive rewards!
+💼🔥 Hey, looking for some cool perks? Join my group ({group_name}) from my profile!
+💎💰 Want to access VIP rewards? Join {group_name} from my profile now!
+💥💰 Ready for some explosive rewards? Join {group_name} from my profile!
